@@ -21,10 +21,8 @@ void loop() {
 #include <Servo.h> 
 #include <stdlib.h>
 
-//const char* ssid = "gs_tokyo_base";
-//const char* password = "become-a-geek";
-const char* ssid = "yoshiaki110iPhone6s";
-const char* password = "P@55W0RD";
+const char* ssid = "xxx";
+const char* password = "xxx";
 Servo myservo;
 ESP8266WebServer server(80);
 
